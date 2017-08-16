@@ -1,8 +1,12 @@
 1223455
 223656
+<<<<<<< HEAD
 
 abcdefghigklmnopqrstuvwxyz
 
 
 
+=======
+456878988555665
+>>>>>>> origin/master
 啊回家考试就开始几点考试几点考试
